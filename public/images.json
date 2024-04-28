@@ -1,0 +1,15 @@
+{
+    "131098": {
+        "image": ["trijonwhite.png","trijonwhite_back.png"]
+    },
+    "132098": {
+        "image": ["trijonblack.png","trijonblack_back.png"]
+    },
+    "132198": {
+        "image": ["trijonwhite.png","trijonwhite_back.png"]
+    },
+    "132108": {
+        "image": ["trijonwhite.png","trijonwhite_back.png"]
+    }
+
+}
